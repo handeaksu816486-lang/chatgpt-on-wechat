@@ -1,0 +1,11 @@
+{
+  "channel_type": "wechatmp",
+  "model": "dify",
+  "dify_api_base": "https://api.dify.ai/v1",
+  "dify_api_key": "填入你的Dify_API_Key",
+  "dify_app_type": "chatbot",
+  "wechatmp_app_id": "填入你的微信AppID",
+  "wechatmp_app_secret": "填入你的微信AppSecret",
+  "wechatmp_aes_key": "填入你的AES_Key",
+  "wechatmp_token": "填入你的Token"
+}
