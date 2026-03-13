@@ -1,13 +1,13 @@
 {
-"channel_type": "wechatmp",
-"model": "dify",
-"dify_api_base": "",
-"dify_api_key": "app-4ULbJ79PaosvXZ2NDmP8Tyci",
-"dify_app_type": "workflow",
-"wechatmp_app_id": "wx1d8ac1ac53a08a52",
-"wechatmp_app_secret": "351eb54bad3b9e9f59f9da094a8ee9ea",
-"wechatmp_aes_key": "krxI6Ud119fuEplvMMKiFD4fE06WuC3jIx4aMgn6Xt6",
-"wechatmp_token": "yj0523",
-"wechatmp_port": 8080,
-"wechatmp_use_taskbar": true
+  "channel_type": "wechatmp",
+  "model": "dify",
+  "dify_api_base": "https://api.dify.ai/v1",
+  "dify_api_key": "app-4ULbJ79PaosvXZ2NDmP8Tyci",
+  "dify_app_type": "workflow",
+  "wechatmp_app_id": "wx1d8ac1ac53a08a52",
+  "wechatmp_app_secret": "351eb54bad3b9e9f59f9da094a8ee9ea",
+  "wechatmp_aes_key": "krxI6Ud119fuEplvMMKiFD4fE06WuC3jIx4aMgn6Xt6",
+  "wechatmp_token": "yj0523",
+  "wechatmp_port": 8080,
+  "wechatmp_use_taskbar": true
 }
